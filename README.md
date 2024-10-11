@@ -47,7 +47,7 @@ Falled in love of AI,I spent my time on Mechanism And Mathematics behind Machine
 <!-- START NEW SECTION -->
 <div align="center">
  <br>
- <p align="centre"><b> Here is a random joke that'll mark your day!</b></p>
+ <p align="centre"><b>I'm forward to work with you!</b></p>
  
  
 
@@ -55,8 +55,7 @@ Falled in love of AI,I spent my time on Mechanism And Mathematics behind Machine
 <!-- GITHUB ACTIVITY GRAPH -->
 <!-- ![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Cyebukayire&theme=react-dark) -->
 
-<!--   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=:)&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&backgroundColor=tokyonight"/> -->
+
   
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kazeo57) 
