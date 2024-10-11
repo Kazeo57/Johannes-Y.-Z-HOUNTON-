@@ -25,7 +25,7 @@ Falled in love of AI,I spent my time on Mechanism And Mathematics behind Machine
 
 
 
-)
+
 
 
 <!-- START NEW SECTION -->
