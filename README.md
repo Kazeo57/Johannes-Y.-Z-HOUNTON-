@@ -59,7 +59,7 @@ Falled in love of AI,I spent my time on Mechanism And Mathematics behind Machine
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=:)&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&backgroundColor=tokyonight"/> -->
   
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=princeGedeon) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kazeo57) 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
   
 
