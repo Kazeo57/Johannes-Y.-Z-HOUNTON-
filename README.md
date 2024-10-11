@@ -31,7 +31,7 @@ Falled in love of AI,I spent my time on Mechanism And Mathematics behind Machine
 <!-- START NEW SECTION -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{princeGedeon}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Kazeo57}/count.svg" /></p> 
 <br></div>
 
 
