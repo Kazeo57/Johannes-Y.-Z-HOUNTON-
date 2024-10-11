@@ -1,6 +1,6 @@
-# JohannesHOUNTON
+# Johannes Y. Z HOUNTON
 
-## Hello ðŸ‘‹
+## Hi!✌🏾
 <img align="right"  src='https://miro.medium.com/v2/resize:fit:1400/1*e52vCd0TzzV55isjBod32A.png' width='300'>
 
 #### Machine Learning Engineering,Neural Networks,Python developer 
