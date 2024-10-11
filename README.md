@@ -1,7 +1,7 @@
 # JohannesHOUNTON
 
 ## Hello ðŸ‘‹
-<img align="right"  src='https://github.com/princeGedeon/ML-For-Beginners/blob/main/1-Introduction/1-intro-to-ML/images/ai-ml-ds.png' width='300'>
+<img align="right"  src='(https://miro.medium.com/v2/resize:fit:1400/1*e52vCd0TzzV55isjBod32A.png)' width='300'>
 
 #### Machine Learning Engineering,Neural Networks,Python developer 
 Falled in love of AI,I spent my time on Mechanism And Mathematics behind Machine Learning Algorithms,and a focus on Neural Networks.I'm often working on NLP and Computer Vsion project with basis on other basics Machine Learning algorithms.Build systems by using less data ,that is my fight.
